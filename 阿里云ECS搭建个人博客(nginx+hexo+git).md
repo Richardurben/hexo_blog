@@ -7,6 +7,8 @@
 
 > [服务器安全防护](https://zhuanlan.zhihu.com/p/26282070)
 
+> [canvas](https://github.com/hustcc/canvas-nest.js/blob/758ef1540b4a9364a211665eb334b514305b9b07/README-zh.md)
+
 ## 服务器端软件配置
 ```
 apt-get update
